@@ -4,4 +4,4 @@
 
 <img src="https://github.com/jwchang418/Curved-mirror-stand/blob/main/PartsDisplay.jpg" width="640"/><br /><br />
 
-<img src="https://github.com/jwchang418/Curved-mirror-stand/blob/main/by-nc-sa.png" width="50"/>
+<img src="https://github.com/jwchang418/Curved-mirror-stand/blob/main/by-nc-sa.png" width="100"/>
